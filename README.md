@@ -1,2 +1,4 @@
 # malinda-sir-python
-This repo is for python. Code by Malinda sir. 
+Hello!
+This repo is for python files which I showed on most of my videos on youtube.
+You can view each video on my youtube channel "malinda sir"
